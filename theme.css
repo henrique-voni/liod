@@ -1,0 +1,348 @@
+/*
+  Free to use CSS by Katie (#106445).
+  This code may be altered, edited, or re-uploaded. 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=VT323');
+body {
+	background: url('https://www.zyto.com/wp-content/uploads/2019/11/Balance-Small-background.gif') center center fixed;
+	background-size: 100%;
+	font-family: 'VT323', monospace;
+	color: #e5f5df;
+}
+
+.center.b {
+	color: #e5f5df !important;
+}
+
+.feature {
+	background: rgba(40, 56, 32, 0.8) !important;
+	color: black !important;
+	border: none !important;
+}
+
+.topbar {
+	background: rgba(40, 56, 32, 0.6);
+	border: none;
+	border-top: none;
+	color: black;
+	border-radius: 5px;
+	font-family: 'VT323', monospace;
+	color: #e5f5df;
+}
+
+.navbar {
+	background: rgba(40, 56, 32, 0.6);
+	border-bottom: none;
+	font-family: 'VT323', monospace;
+	color: #e5f5df;
+	border-radius: 5px;
+}
+
+.navbar li a {
+	color: #e5f5df !important;
+}
+
+.navbar li a:hover {
+	background: rgba(168, 188, 160, 0.8) !important;
+}
+
+.container.main {
+	background: rgba(80, 112, 96, 0.4);
+	border: none;
+	box-shadow: none;
+	border: none;
+	border-radius: 5px;
+}
+
+.col-md-9 {
+	background: none;
+}
+
+.breadcrumb {
+	background: rgba(40, 56, 32, 0.8);
+}
+
+.breadcrumb .active {
+	color: #e5f5df;
+}
+
+.alert {
+	background: rgba(168, 188, 160, 0.6);
+	border: none;
+	color: #e5f5df;
+}
+
+.alert-warning,
+.alert-danger {
+	background: rgba(168, 188, 160, 0.6);
+	color: #e5f5df;
+}
+
+div.left {
+	background: rgba(40, 56, 32, 0.6);
+	border: none;
+}
+
+.panel {
+	background: rgba(168, 188, 160, 0.6) !important;
+	box-shadow: none !important;
+	border: none !important;
+	color: #e5f5df !important;
+}
+
+.progress {
+	background: rgba(168, 188, 160, 0.6);
+	color: #e5f5df !important;
+}
+
+.progress-div {
+	color: #e5f5df !important;
+}
+
+.progress-bar {
+	background: rgba(80, 112, 96, 0.6);
+	color: #e5f5df !important;
+}
+
+.s-chat-message:nth-child(even) {
+	background: rgba(168, 188, 160, 0.6) !important;
+	border: none !important;
+}
+
+.s-chat-message:nth-child(odd) {
+	background: rgba(168, 188, 160, 0.6) !important;
+	border: none !important;
+}
+
+.s-chat-message__pinned {
+	background: rgba(40, 56, 32, 0.6) !important;
+	color: #e5f5df !important;
+	border: none !important;
+}
+
+.s-chat-message_timestamp {
+	color: #e5f5df !important;
+}
+
+div#chatMessageContainer {
+	border: none !important;
+}
+
+button#label_currentChannel {
+	border: none !important;
+	background: rgba(40, 56, 32, 0.6) !important;
+}
+
+h1 {
+	color: #e5f5df;
+	font-size: 72px;
+	text-align: center;
+}
+
+h2 {
+	color: #e5f5df;
+	font-size: 24px;
+	text-align: center;
+}
+
+h3 {
+	color: #e5f5df !important;
+	font-size: 24px !important
+}
+
+.table {
+	background: rgba(80, 112, 96, 0.6);
+	border: none !important;
+	border-collapse: separate;
+	border-radius: 5px;
+}
+
+.top,
+.bottom,
+th {
+	background: rgba(40, 56, 32, 0.6) !important;
+	color: #e5f5df !important;
+	border-radius: 5px;
+}
+
+.table .left {
+	background: rgba(168, 188, 160, 0.6)
+}
+
+.inner-table .left {
+	background: rgba(168, 188, 160, 0.6) !important;
+}
+
+.inner-table .right {
+	background: rgba(168, 188, 160, 0.6)
+}
+
+.right_odd {
+	background: none !important;
+}
+
+.right_cub {
+	background: rgba(168, 188, 160, 0.6) !important;
+}
+
+.item-header {
+	background: rgba(40, 56, 32, 0.6) !important;
+	color: #e5f5df !important;
+}
+
+.item {
+	background: rgba(168, 188, 160, 0.6) !important;
+	border: none !important;
+}
+
+.sub_menu {
+	background: rgba(168, 188, 160, 0.6) !important;
+}
+
+.sub_menu_item_selected {
+	background: rgba(40, 56, 32, 0.6) !important;
+}
+
+.cave-grid,
+.mound-grid {
+	background: rgba(40, 56, 32, 0.6);
+	border: none !important;
+}
+
+a:link,
+a:visited {
+	color: #e5f5df !important;
+}
+
+table.table.auto {
+	color: black !important;
+}
+
+a:hover {
+	color: #283820 !important;
+}
+
+input,
+select,
+textarea {
+	background: rgba(168, 188, 160, 0.6) !important;
+	border: none !important;
+	border-color: brown;
+	border-radius: 5px;
+	box-shadow: none !important;
+	color: black !important;
+	text-shadow: none !important;
+}
+
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+
+.Box1 {
+	float: left;
+	background: rgba(168, 188, 160, 0.6);
+	color: #e5f5df;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	float: left;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box1:hover {
+	overflow-y: auto;
+}
+
+.Box2 {
+	float: left;
+	background: rgba(168, 188, 160, 0.6);
+	color: #e5f5df;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	float: right;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box2:hover {
+	overflow-y: auto;
+}
+
+.Box3 {
+	float: left;
+	background: rgba(168, 188, 160, 0.6);
+	color: #e5f5df;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	float: right;
+	height: 250px;
+	width: 820px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box3:hover {
+	overflow-y: auto;
+}
+
+.credit {
+	background: rgba(40, 56, 32, 0.6);
+	color: white;
+	padding: 10px;
+	border: none;
+	position: fixed;
+	text-align: center;
+	border-radius: 5px;
+	left: 0px;
+	bottom: 0px;
+	width: 180px;
+	height: 40px;
+	overflow: auto;
+}
+
+::-webkit-scrollbar {
+	width: 7px;
+	height: 7px;
+}
+
+::-webkit-scrollbar-track {
+	background: #a8bca0;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #283820;
+	border-radius: 4px;
+}
+
+div#lion_image {
+	opacity: 0.6;
+}
+
+table#player img {
+	opacity: 0.6;
+	border: none !important;
+	filter: alpha(opacity=50);
+	border: none !important;
+}
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://puu.sh/CC2kL/fbdf5130b9.png');
+}
