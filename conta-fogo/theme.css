@@ -17,7 +17,7 @@ body {
 }
 
 .topbar {
-	background: rgba(40, 56, 32, 0.6);
+	background: rgba(208,0,0,0.4);
 	border: none;
 	border-top: none;
 	color: black;
@@ -27,8 +27,8 @@ body {
 }
 
 .navbar {
-    /* background: rgba(40, 56, 32, 0.6); */
-    background: rgba(208, 0,0, 0.6);
+    /* background: rgba(208,0,0,0.4); */
+    background: rgba(208, 0,0, 0.4);
 	border-bottom: none;
 	font-family: 'VT323', monospace;
 	color: #e5f5df;
@@ -76,7 +76,7 @@ body {
 }
 
 div.left {
-	background: rgba(40, 56, 32, 0.6);
+	background: rgba(208,0,0,0.4);
 	border: none;
 }
 
@@ -112,7 +112,7 @@ div.left {
 }
 
 .s-chat-message__pinned {
-	background: rgba(40, 56, 32, 0.6) !important;
+	background: rgba(208,0,0,0.4) !important;
 	color: #e5f5df !important;
 	border: none !important;
 }
@@ -127,7 +127,7 @@ div#chatMessageContainer {
 
 button#label_currentChannel {
 	border: none !important;
-	background: rgba(40, 56, 32, 0.6) !important;
+	background: rgba(208,0,0,0.4) !important;
 }
 
 h1 {
@@ -157,7 +157,7 @@ h3 {
 .top,
 .bottom,
 th {
-	background: rgba(40, 56, 32, 0.6) !important;
+	background: rgba(208,0,0,0.4) !important;
 	color: #e5f5df !important;
 	border-radius: 5px;
 }
@@ -183,7 +183,7 @@ th {
 }
 
 .item-header {
-	background: rgba(40, 56, 32, 0.6) !important;
+	background: rgba(208,0,0,0.4) !important;
 	color: #e5f5df !important;
 }
 
@@ -197,12 +197,12 @@ th {
 }
 
 .sub_menu_item_selected {
-	background: rgba(40, 56, 32, 0.6) !important;
+	background: rgba(208,0,0,0.4) !important;
 }
 
 .cave-grid,
 .mound-grid {
-	background: rgba(40, 56, 32, 0.6);
+	background: rgba(208,0,0,0.4);
 	border: none !important;
 }
 
@@ -300,7 +300,7 @@ textarea {
 }
 
 .credit {
-	background: rgba(40, 56, 32, 0.6);
+	background: rgba(208,0,0,0.4);
 	color: white;
 	padding: 10px;
 	border: none;
