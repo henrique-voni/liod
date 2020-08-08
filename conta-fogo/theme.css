@@ -342,5 +342,14 @@ table#player img {
 }
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://cdn.jsdelivr.net/gh/henrique-voni/liod@latest/conta-fogo/icon.png');
+    content: url('https://cdn.jsdelivr.net/gh/henrique-voni/liod@latest/conta-fogo/icon.png');
+    max-width: 14% !important;
+}
+
+@media screen and (min-width:768px){
+
+    .navbar-nav{
+        margin: 0 0 0 100px !important;
+    }
+
 }
