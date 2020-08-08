@@ -31,16 +31,17 @@ body {
     background: rgba(208, 0,0, 0.4);
 	border-bottom: none;
 	font-family: 'VT323', monospace;
-	color: #e5f5df;
+	color: #fff;
 	border-radius: 5px;
 }
 
 .navbar li a {
-	color: #e5f5df !important;
+	color: #fff !important;
 }
 
 .navbar li a:hover {
-	background: rgba(168, 188, 160, 0.8) !important;
+    background: #ffba08!important;
+    color: #dc2f02 !important;
 }
 
 .container.main {
