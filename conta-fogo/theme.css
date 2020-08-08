@@ -67,14 +67,14 @@ body {
 
 .alert {
     /* rgba(106,4,15,0.8) */
-	background: rgba(106,4,15,0.8);
+	background: rgba(106,4,15,0.8) !important;
 	border: none;
 	color: #e5f5df;
 }
 
 .alert-warning,
 .alert-danger {
-	background: rgba(106,4,15,0.8);
+	background: rgba(106,4,15,0.8) !important;
 	color: #e5f5df;
 }
 
@@ -91,7 +91,7 @@ div.left {
 }
 
 .progress {
-	background: rgba(106,4,15,0.8);
+	background: rgba(106,4,15,0.8) !important;
 	color: #e5f5df !important;
 }
 
@@ -100,7 +100,8 @@ div.left {
 }
 
 .progress-bar {
-	background: rgba(80, 112, 96, 0.6);
+    background: #faa307 !important;
+	/* background: rgba(80, 112, 96, 0.6) !important; */
 	color: #e5f5df !important;
 }
 
