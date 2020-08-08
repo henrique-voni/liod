@@ -11,7 +11,7 @@ body {
 }
 
 .feature {
-	background: rgba(40, 56, 32, 0.8) !important;
+	background: gba(232, 93, 4, 0.6) !important;
 	color: black !important;
 	border: none !important;
 }
@@ -57,11 +57,12 @@ body {
 }
 
 .breadcrumb {
-	background: rgba(40, 56, 32, 0.8);
+    background: rgba(232, 93, 4, 0.6);
+	/* background: rgba(40, 56, 32, 0.8); */
 }
 
 .breadcrumb .active {
-	color: #e5f5df;
+	color: #fff;
 }
 
 .alert {
@@ -341,5 +342,5 @@ table#player img {
 }
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://puu.sh/CC2kL/fbdf5130b9.png');
+	content: url('https://cdn.jsdelivr.net/gh/henrique-voni/liod@latest/conta-fogo/icon.png');
 }
