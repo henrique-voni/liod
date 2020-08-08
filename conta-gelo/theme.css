@@ -1,11 +1,6 @@
-/*
-  Free to use CSS by Katie (#106445).
-  This code may be altered, edited, or re-uploaded. 
-*/
-
 @import url('https://fonts.googleapis.com/css?family=VT323');
 body {
-	background: url('https://www.zyto.com/wp-content/uploads/2019/11/Balance-Small-background.gif') center center fixed;
+	background: url('https://cdn.jsdelivr.net/gh/henrique-voni/liod/conta-gelo/bg.gif') center center fixed;
 	background-size: 100%;
 	font-family: 'VT323', monospace;
 	color: #e5f5df;
