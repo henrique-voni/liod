@@ -66,14 +66,15 @@ body {
 }
 
 .alert {
-	background: rgba(168, 188, 160, 0.6);
+    /* rgba(106,4,15,0.8) */
+	background: rgba(106,4,15,0.8);
 	border: none;
 	color: #e5f5df;
 }
 
 .alert-warning,
 .alert-danger {
-	background: rgba(168, 188, 160, 0.6);
+	background: rgba(106,4,15,0.8);
 	color: #e5f5df;
 }
 
@@ -83,14 +84,14 @@ div.left {
 }
 
 .panel {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 	box-shadow: none !important;
 	border: none !important;
 	color: #e5f5df !important;
 }
 
 .progress {
-	background: rgba(168, 188, 160, 0.6);
+	background: rgba(106,4,15,0.8);
 	color: #e5f5df !important;
 }
 
@@ -104,12 +105,12 @@ div.left {
 }
 
 .s-chat-message:nth-child(even) {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 	border: none !important;
 }
 
 .s-chat-message:nth-child(odd) {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 	border: none !important;
 }
 
@@ -165,15 +166,15 @@ th {
 }
 
 .table .left {
-	background: rgba(168, 188, 160, 0.6)
+	background: rgba(106,4,15,0.8)
 }
 
 .inner-table .left {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 }
 
 .inner-table .right {
-	background: rgba(168, 188, 160, 0.6)
+	background: rgba(106,4,15,0.8)
 }
 
 .right_odd {
@@ -181,7 +182,7 @@ th {
 }
 
 .right_cub {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 }
 
 .item-header {
@@ -190,12 +191,12 @@ th {
 }
 
 .item {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 	border: none !important;
 }
 
 .sub_menu {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 }
 
 .sub_menu_item_selected {
@@ -224,7 +225,7 @@ a:hover {
 input,
 select,
 textarea {
-	background: rgba(168, 188, 160, 0.6) !important;
+	background: rgba(106,4,15,0.8) !important;
 	border: none !important;
 	border-color: brown;
 	border-radius: 5px;
@@ -243,7 +244,7 @@ textarea {
 
 .Box1 {
 	float: left;
-	background: rgba(168, 188, 160, 0.6);
+	background: rgba(106,4,15,0.8);
 	color: #e5f5df;
 	padding: 15px;
 	border: none;
@@ -263,7 +264,7 @@ textarea {
 
 .Box2 {
 	float: left;
-	background: rgba(168, 188, 160, 0.6);
+	background: rgba(106,4,15,0.8);
 	color: #e5f5df;
 	padding: 15px;
 	border: none;
@@ -283,7 +284,7 @@ textarea {
 
 .Box3 {
 	float: left;
-	background: rgba(168, 188, 160, 0.6);
+	background: rgba(106,4,15,0.8);
 	color: #e5f5df;
 	padding: 15px;
 	border: none;
