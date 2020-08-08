@@ -27,7 +27,8 @@ body {
 }
 
 .navbar {
-	background: rgba(40, 56, 32, 0.6);
+    /* background: rgba(40, 56, 32, 0.6); */
+    background: rgba(208, 0,0, 0.6);
 	border-bottom: none;
 	font-family: 'VT323', monospace;
 	color: #e5f5df;
